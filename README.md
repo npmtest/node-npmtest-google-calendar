@@ -1,4 +1,7 @@
-# test coverage for  [google-calendar (v1.3.2)](https://github.com/berryboy/google-calendar)  [![npm package](https://img.shields.io/npm/v/npmtest-google-calendar.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-google-calendar) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-google-calendar.svg)](https://travis-ci.org/npmtest/node-npmtest-google-calendar)
+# npmtest-google-calendar
+
+#### test coverage for  [google-calendar (v1.3.2)](https://github.com/berryboy/google-calendar)  [![npm package](https://img.shields.io/npm/v/npmtest-google-calendar.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-google-calendar) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-google-calendar.svg)](https://travis-ci.org/npmtest/node-npmtest-google-calendar)
+
 #### Google Calendar API for Node.js
 
 [![NPM](https://nodei.co/npm/google-calendar.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/google-calendar)
